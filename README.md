@@ -80,5 +80,5 @@
 
 ---
 
-<p>What started as a simple curiocity on how to display content on my browser everything changed when i learnt Javascript. Now it wont end. </p>
+<p>What started as a simple curiosity about how to display content on my browser changed everything when I learned JavaScript. Now, it won't end.</p>
 
