@@ -12,14 +12,14 @@
 </div>
 <img src="https://github.com/Jaomar92/Jaomar92/assets/65635396/ce980b2d-0d5a-4fc6-a4af-b4d467f70fe2" alt="coffee" align='right' width='600px'/>
         <ul>
-            <li>🔭 I’m currently working on My own Freelance Website</li> 
-            <li>🌱 I’m currently learning to utilize more of github into my projects and project management flows
-            <li>👯 I’m looking to collaborate on **Havent really tought about it much**</li>
-            <li>🤝 I’m looking for help with **How Pros use Github for project management**</li>
-            <li>👨‍💻 All of my projects are available in my Github repository</li>
-            <li>📝 I regularly write articles on **Havent really come around to doing that yet **</li>
-            <li>💬 Ask me about <strong>React and Next.js</strong></li>
-            <li>📫 How to reach me **Will get a dedicated Social Media platform to connect here**</li>
+            <li>🔭 I’m currently working on<br/>   --> My own Freelance Website</li> 
+            <li>🌱 I’m currently learning to<br/>   --> utilize more of github into my projects and project management flows
+            <li>👯 I’m looking to collaborate on<br/>   --> **Havent really tought about it much**</li>
+            <li>🤝 I’m looking for help with<br/>   --> **How Pros use Github for project management**</li>
+            <li>👨‍💻 All of my projects are available in<br/>   --> my Github repository</li>
+            <li>📝 I regularly write articles on<br/>   --> **Havent really come around to doing that yet **</li>
+            <li>💬 Ask me about<br/>   --> <strong>React and Next.js</strong></li>
+            <li>📫 How to reach me<br/>   --> **Will get a dedicated Social Media platform to connect here**</li>
         </ul>
 
 
