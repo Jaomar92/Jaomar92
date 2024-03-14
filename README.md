@@ -12,7 +12,7 @@
         </a>
     </p>
 </div>
-<img src="https://github.com/Jaomar92/Jaomar92/assets/65635396/ce980b2d-0d5a-4fc6-a4af-b4d467f70fe2" alt="coffee" align='right' width='600px'/>
+<img src="https://github.com/Jaomar92/Jaomar92/assets/65635396/ce980b2d-0d5a-4fc6-a4af-b4d467f70fe2" alt="coffee" align='right' width='400px'/>
         <ul>
             <li>🔭 I’m currently working on<br/>   --> My own Freelance Website</li> 
             <li>🌱 I’m currently learning to<br/>   --> utilize more of github into my projects and project management flows
