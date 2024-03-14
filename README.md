@@ -64,10 +64,14 @@
 
 
 <p align="left">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaomar92&show_icons=true&locale=en&layout=compact" alt="jaomar92" width="100%"  />
-    <img src="https://github-readme-stats.vercel.app/api?username=jaomar92&show_icons=true&locale=en" alt="jaomar92" width="100%"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaomar92&" alt="jaomar92" width="100%"/>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaomar92&show_icons=true&locale=en&layout=compact" alt="jaomar92" width="40%"  />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaomar92&" alt="jaomar92" width="56%"/>
 </p>
+<p align='left'>
+    <img src="https://github-readme-stats.vercel.app/api?username=jaomar92&show_icons=true&locale=en" alt="jaomar92" width="54%"/> 
+    <img src="https://github.com/Jaomar92/Jaomar92/assets/65635396/1b89862c-c691-440c-bdea-eb450557e53a" alt="Naruto" widht="250px" height="225px" align='center'/>
+</p>
+
 
 
 
@@ -76,9 +80,5 @@
 
 ---
 
-<p>My coding Journey started with my girlfriend now wife who was majoring in graphic design and was doing freelance work in logo and flyer design. While being an Investment Management major who was adept to Excel, Powerpoint, and Word. I took it upon myself to upskill in hopes to team up with her in making extra money for my co-curricular activities. </p>
-
-<p>Not knowing where to start, I searched on the internet and YouTube and came across Codecademy. Though I was on the free tier for a long time until I got my first job after college and invested what spare money I had in myself to learn to code. I started off with Python3</p>
-
-<h5>Need to put a Footer Here</h5>
+<p>What started as a simple curiocity on how to display content on my browser everything changed when i learnt Javascript. Now it wont end. </p>
 
