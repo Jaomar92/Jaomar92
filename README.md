@@ -80,5 +80,5 @@
 
 ---
 
-<p>What started as a simple curiosity about how to display content on my browser changed everything when I learned JavaScript. Now, it won't end.</p>
+<p>When I thought HTML & CSS was enough. Now it is a never ending journey when I learnt Javascript.</p>
 
