@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jeffrey</h1>
-<h3 align="center">A passionate developer from Malaysia, Currently based in Jakarta</h3>
+<h3 align="center">A passionate developer from Malaysia, Currently based in Jakarta, Indonesia</h3>
 
-<h3 align="left">Journey</h3>
-
----
-
-<p>My coding Journey started with my girlfriend now wife who was majoring in graphic design and was doing freelance work in logo and flyer design. While being an Investment Mangement major who was adept to Excel, Powerpoint and word. I took it upon myself to upskill in hopes to team up with her in making extra money for my co-curricular activities. </p>
-
-
-<p>Not knowing where to start I searched on the internet and youtube and came across codecademy. Though I was on the free tier for a long time until I got my first job after college and invested what spare money I had in myself to learn to code. I started off with Python3</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaomar92&label=Profile%20views&color=0e75b6&style=flat" alt="jaomar92" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaomar92" alt="jaomar92" /></a> </p>
@@ -41,3 +33,15 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaomar92&show_icons=true&locale=en" alt="jaomar92" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaomar92&" alt="jaomar92" /></p>
+
+<h3 align="left">Journey</h3>
+
+---
+
+<p>My coding Journey started with my girlfriend now wife who was majoring in graphic design and was doing freelance work in logo and flyer design. While being an Investment Mangement major who was adept to Excel, Powerpoint and word. I took it upon myself to upskill in hopes to team up with her in making extra money for my co-curricular activities. </p>
+
+
+<p>Not knowing where to start I searched on the internet and youtube and came across codecademy. Though I was on the free tier for a long time until I got my first job after college and invested what spare money I had in myself to learn to code. I started off with Python3</p>
+
+
+<h5>Need to put a Footer Here</h5>
