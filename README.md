@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Jeffrey</h1>
-<h3 align="center">A developer from Malaysia. Currently based in Jakarta, Indonesia</h3>
+<div style="width: 100%;">
+    <img src="https://github.com/Jaomar92/Jaomar92/assets/65635396/38ace43a-fcef-4a94-8e80-63ff61ea9486" alt="Header" style="width: 100%;">
+</div>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaomar92&label=Profile%20views&color=0e75b6&style=flat" alt="jaomar92" /> </p>
 
