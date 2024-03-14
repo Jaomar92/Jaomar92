@@ -64,12 +64,11 @@
 
 
 <p align="left">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaomar92&show_icons=true&locale=en&layout=compact" alt="jaomar92" width="50%"  />
-    <img src="https://github-readme-stats.vercel.app/api?username=jaomar92&show_icons=true&locale=en" alt="jaomar92" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaomar92&show_icons=true&locale=en&layout=compact" alt="jaomar92" width="100%"  />
+    <img src="https://github-readme-stats.vercel.app/api?username=jaomar92&show_icons=true&locale=en" alt="jaomar92" width="100%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaomar92&" alt="jaomar92" width="100%"/>
 </p>
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaomar92&" alt="jaomar92" />
-</p>
+
 
 
 
