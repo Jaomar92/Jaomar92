@@ -14,16 +14,13 @@
             <li>💬 Ask me about<br/>   --> <strong>React and Next.js</strong></li>
             <li>📫 How to reach me<br/>   --> **Will get a dedicated Social Media platform to connect here**</li>
         </ul>
-<img src="https://github.com/Jaomar92/Jaomar92/assets/65635396/ce980b2d-0d5a-4fc6-a4af-b4d467f70fe2" alt="coffee" align='right' width='700px'/>
-
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<img src="https://github.com/Jaomar92/Jaomar92/assets/65635396/ce980b2d-0d5a-4fc6-a4af-b4d467f70fe2" alt="coffee" align='right' width='700px'/>
 
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Node.Js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
