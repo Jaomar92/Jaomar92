@@ -4,15 +4,6 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaomar92&label=Profile%20views&color=0e75b6&style=flat" alt="jaomar92" /> </p>
-
-<div class="github-trophy" style="width: 100%; max-width: 800px; margin: 0 auto;">
-    <p align="center">
-        <a href="https://github.com/ryo-ma/github-profile-trophy">
-            <img src="https://github-profile-trophy.vercel.app/?username=jaomar92" alt="jaomar92" />
-        </a>
-    </p>
-</div>
-<img src="https://github.com/Jaomar92/Jaomar92/assets/65635396/ce980b2d-0d5a-4fc6-a4af-b4d467f70fe2" alt="coffee" align='right' width='400px'/>
         <ul>
             <li>🔭 I’m currently working on<br/>   --> My own Freelance Website</li> 
             <li>🌱 I’m currently learning to<br/>   --> utilize more of github into my projects and project management flows
@@ -23,6 +14,7 @@
             <li>💬 Ask me about<br/>   --> <strong>React and Next.js</strong></li>
             <li>📫 How to reach me<br/>   --> **Will get a dedicated Social Media platform to connect here**</li>
         </ul>
+<img src="https://github.com/Jaomar92/Jaomar92/assets/65635396/ce980b2d-0d5a-4fc6-a4af-b4d467f70fe2" alt="coffee" align='right' width='700px'/>
 
 
 
