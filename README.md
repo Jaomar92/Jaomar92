@@ -8,7 +8,7 @@
 
 ✍️ I have written a few blog post but too scared to publish them.
 
-## Languages/Frameworks I'm most confident in
+## Languages/Frameworks I use the most
 
 ### Front-End
 
@@ -44,3 +44,8 @@
 
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Git](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+## Learning
+
+1. HTML & CSS
+2. Javascript
