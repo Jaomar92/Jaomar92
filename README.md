@@ -1,5 +1,16 @@
 # Hello I'm Jeffrey
 
+## Thoughts 🤔
+
+1. How to make my own NPM package?
+   > Would like to make my own UI library.
+2. How to sell website templates?
+   > Would be good having something laying around and it makes money every now and than.
+3. Should I store my blogs here on GitHub?
+   > Just figured to get some practice playing around and discovering new things.
+
+## Currently 📽️
+
 🔭 I am working on Developing my own coding course
 
 🌱 I am looking on how to create my own UI library
@@ -45,7 +56,9 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Git](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-## Learning
+## Learning Resources
 
 1. HTML & CSS
 2. Javascript
+3. Python
+4. Github
