@@ -2,13 +2,13 @@
 
 ## Thoughts 🤔
 
-1. How to make my own NPM package?
+1. Make my own NPM package?
    > Would like to make my own UI library.
-2. How to sell website templates?
+2. Sell website templates?
    > Would be good having something laying around and it makes money every now and than.
 3. Should I store my blogs here on GitHub?
    > Just figured to get some practice playing around and discovering new things.
-4. How can I use Github as a CMS for blogging.
+4. Use Github as a CMS for blogging.
    > Saw a few developers do it. But I do not have the time to try and implement it on my own.
 
 
