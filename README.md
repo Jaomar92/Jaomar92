@@ -1,54 +1,46 @@
-# Hello I'm Jeffrey 👋
+# Hello I'm Jeffrey 👺
 
-## Thoughts 🤔
+## 🚀 Currently Working On
+- Developing a Coding Course: Creating a comprehensive coding course to help others get started with development.
+- Building My Own UI Library: Exploring how to create a UI library that’s lightweight, customizable, and developer-friendly.
+- Seeking Front-End Development Opportunities: Looking for my next front-end development job to further grow my skills.
+- Blogging and Content Creation: Writing blog posts to share my journey, but a bit hesitant to publish just yet.
 
-1. Make my own NPM package?
-   > Would like to make my own UI library.
-2. Sell website templates?
-   > Would be good having something laying around and it makes money every now and than.
-3. Should I store my blogs here on GitHub?
-   > Just figured to get some practice playing around and discovering new things.
-4. Use Github as a CMS for blogging.
-   > Saw a few developers do it. But I do not have the time to try and implement it on my own.
+## 💡 Thoughts & Ideas
 
+🔭 Create My Own NPM Package: Developing a custom UI library could be the first step.
 
-## Currently 📽️
+🌱 Sell Website Templates: It would be great to generate passive income by creating reusable website templates.
 
-🔭 I am working on Developing my own coding course
+🚀 GitHub as a CMS for Blogging: Inspired by others, I’m curious about using GitHub for managing and hosting blog content.
 
-🌱 I am looking on how to create my own UI library
-
-🚀 I am looking to get a job in Front-end Development
-
-✍️ I have written a few blog post but too scared to publish them.
-
-## Languages/Frameworks I use the most
+## 🛠️ Technologies I Use
 
 ### Front-End
 
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+- ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+- ![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+- ![Next.js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Back-End
 
-![Node.Js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+- ![Node.Js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+- ![Express](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
+- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Data-Science
 
-![Python](https://img.shields.io/badge/Python-84cc16?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
-![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-84cc16?style=for-the-badge&logo=python&logoColor=white)
+- ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+- ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+- ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+- ![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
 
 ### Database
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Tools
 
@@ -59,9 +51,5 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Git](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-## Learning Resources
-
-1. HTML & CSS
-2. Javascript
-3. Python
-4. Github
+## 💬 Let's Connect!
+Feel free to reach out if you're interested in collaborating, contributing, or just chatting about open-source development!
