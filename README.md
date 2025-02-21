@@ -7,9 +7,12 @@
 ## 🚀 **Currently Working On**
 
 - **Developing a Coding Course:** Crafting a comprehensive coding course to help others get started with development.  
-- **Building My Own UI Library:** Exploring how to create a lightweight and customizable UI library.  
-- **Seeking Front-End Development Opportunities:** Looking to further grow my front-end development skills.  
-- **Blogging and Content Creation:** Writing blog posts to share my journey — though still hesitant to publish them just yet.
+- **Reading:**
+    - Black Hat Python
+    - Web app hacking handbook
+    - bug bounty bootcamp  
+- **Trying out Go + React Combo** .  
+
 
 ---
 
